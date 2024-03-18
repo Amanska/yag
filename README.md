@@ -14,5 +14,11 @@ Result
 
 ## Tickets
 Similar to [ticket tool](https://tickettool.xyz), but more customizable.
+
+### How it works in practice
+![Tutorial image 1](https://github.com/Amanska/yag/assets/56720795/aa06bebf-0452-4dbf-b4d8-dee6ad323c7d)
+![Tutorial image 2](https://github.com/Amanska/yag/assets/56720795/a2b4370c-9b03-480c-b822-9d36927f24a1)
+
+
 ### Apply
 [YouTube tutorial (tts)](https://www.youtube.com/watch?v=GRXSzDMfm-E) | Readme tutorial not available yet.
